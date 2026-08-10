@@ -1,13 +1,13 @@
-# Olá, eu sou o Caio Gonzalez 👋
+# Olá, eu sou o Caio Gonzalez 
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Anhanguera Educacional, com conclusão prevista para 2027. Busco uma oportunidade de estágio em desenvolvimento de software, com interesse especial em **Python e backend**.
 
 ## Sobre mim
 
-- 💻 Estudando Python, lógica de programação e boas práticas de desenvolvimento
-- 🌱 Aprendendo Git, GitHub, POO, CRUD e manipulação de dados
-- 🛠️ Também possuo conhecimentos em suporte técnico, Active Directory e redes
-- 🎯 Em busca da primeira oportunidade de estágio em desenvolvimento
+- Estudando Python, lógica de programação e boas práticas de desenvolvimento
+- Aprendendo Git, GitHub, POO, CRUD e manipulação de dados
+- Também possuo conhecimentos em suporte técnico, Active Directory e redes
+- Em busca da primeira oportunidade de estágio em desenvolvimento
 
 ## Tecnologias
 
