@@ -1,4 +1,4 @@
-# Olá, eu sou o Caio Gonzalez 👋
+# Olá, eu sou o Caio Gonzalez 
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Anhanguera, com conclusão prevista para dezembro de 2027. Atualmente atuo como **Estagiário de TI na Prefeitura Municipal de Miguel Pereira**, prestando suporte presencial e remoto a cerca de 100 usuários.
 
