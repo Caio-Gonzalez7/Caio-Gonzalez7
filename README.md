@@ -1,48 +1,59 @@
-# Olá, eu sou o Caio Gonzalez 
+# Olá, eu sou o Caio Gonzalez
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Anhanguera, com conclusão prevista para dezembro de 2027. Atualmente atuo como **Estagiário de TI na Prefeitura Municipal de Miguel Pereira**, prestando suporte presencial e remoto a cerca de 100 usuários.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Anhanguera, com conclusão prevista para dezembro de 2027. Atuo como **Estagiário de TI na Prefeitura Municipal de Miguel Pereira**, prestando suporte presencial e remoto a mais de 100 usuários e equipamentos.
 
-Tenho experiência prática com suporte técnico, Windows, Microsoft 365, Active Directory, redes e manutenção de computadores. Na área de desenvolvimento, estudo e construo projetos com foco em **Python e backend**.
+Meu foco profissional é desenvolvimento backend com **Python**, **Flask**, **FastAPI** e bancos de dados relacionais. Gosto de transformar problemas operacionais reais em aplicações web simples, seguras e testáveis.
 
-## Sobre mim
+## Competências
 
-- Desenvolvimento de aplicações em Python
-- Criação de operações CRUD e validações de dados
-- Persistência de dados com SQLite e migração de JSON
-- Manipulação e exportação de dados em JSON e CSV
-- Testes automatizados com `unittest` e `unittest.mock`
-- Versionamento com Git e GitHub usando branches
-- Experiência com suporte técnico, Active Directory, redes e Microsoft 365
-- Em busca de oportunidades em desenvolvimento Python e suporte de TI
-
-## Tecnologias e ferramentas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+- Python, Flask e FastAPI
+- PostgreSQL, Supabase, SQLite e SQL
+- APIs REST, autenticação e controle de acesso
+- HTML, CSS, JavaScript, React e TypeScript
+- Testes automatizados com unittest e GitHub Actions
+- Git e GitHub com branches e revisão de alterações
+- Docker, Linux, Gunicorn e publicação no Render
+- Suporte técnico, Windows, Microsoft 365, Active Directory e redes
+- Uso responsável de ferramentas de IA para desenvolvimento, testes e documentação
 
 ## Projetos em destaque
 
 ### [Sistema de Controle de Equipamentos](https://github.com/Caio-Gonzalez7/PROGRAMA_CONTROLE_DE_EQUIPAMENTOS)
 
-Aplicação de linha de comando em Python para gerenciamento de equipamentos, com:
+Aplicação web completa para gestão de equipamentos de TI, construída com Python e Flask.
 
-- Cadastro, pesquisa, edição e remoção de registros
-- Persistência em SQLite e migração automática de dados JSON
-- Validação de patrimônio e número de série
-- Controle de status, filtros e ordenação
-- Registro de datas de cadastro e atualização
-- Backup antes de alterações importantes
-- Exportação dos dados para CSV
-- 11 testes automatizados
+- PostgreSQL/Supabase com opção de SQLite local
+- Autenticação, perfis de acesso e gestão de usuários
+- Histórico de alterações, filtros, paginação e QR Code
+- Importação e exportação CSV
+- Proteção CSRF, senhas com hash e bloqueio de duplicidades
+- 30 testes automatizados e integração contínua no GitHub Actions
+- Publicação com Gunicorn e Render
 
-### [Exercícios de Python](https://github.com/Caio-Gonzalez7/cursopython)
+**Demonstração:** [controle-equipamentos-caio.onrender.com](https://controle-equipamentos-caio.onrender.com)
 
-Exercícios e desafios do Curso em Vídeo, registrando minha evolução em Python, lógica de programação e resolução de problemas.
+### [Central de TI PMMP](https://github.com/Caio-Gonzalez7/central-ti-pmmp)
+
+Projeto independente de estudo para abertura e gerenciamento de chamados de suporte técnico, inspirado em necessidades operacionais reais.
+
+- Interface mobile-first em React, TypeScript e Tailwind
+- API em FastAPI com arquitetura preparada para PostgreSQL
+- Fluxos de servidor e técnico, protocolos, mensagens e estados do chamado
+- Ambiente local com SQLite e opção de Docker/PostgreSQL
+- Documentação de arquitetura, segurança e roadmap
+- Protótipo navegável utilizando somente dados fictícios
+
+## Experiência prática
+
+No suporte de TI, atendo usuários, computadores, impressoras, rede, Microsoft 365 e Active Directory. Essa experiência ajuda a entender requisitos, investigar falhas, documentar soluções e desenvolver sistemas voltados a problemas reais.
+
+## Formação e aprendizado
+
+- Análise e Desenvolvimento de Sistemas — Universidade Anhanguera
+- Conclusão prevista: dezembro de 2027
+- Estudos contínuos em Python, desenvolvimento web, APIs, bancos de dados e testes
 
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/caio-gonzalez-osorio/)
+- E-mail: [caio.gonzalez.ti@gmail.com](mailto:caio.gonzalez.ti@gmail.com)
